@@ -16,13 +16,44 @@ Este repositorio contiene el material del curso de Inteligencia Artificial de Sa
 
 ## Clases
 
-| Clase | Tema | Notebook |
-|:-----:|------|----------|
-| 1 | Git y GitHub: repositorios, commits, ramas, fork y pull requests | [clase_01.ipynb](./clases/clase_01.ipynb) |
-| 2 | NumPy, pandas y primer modelo de machine learning | [SIC2026_IA_Clase02_NumPy_pandas_ML.ipynb](./clases/SIC2026_IA_Clase02_NumPy_pandas_ML.ipynb) |
-| 3 | Capítulo 5: machine learning supervisado (clase presentada por grupos) | [SIC2026_IA_Clase03_Cap5_Grupos.ipynb](./clases/SIC2026_IA_Clase03_Cap5_Grupos.ipynb) |
+Para abrir un notebook en Colab, haz clic en **Abrir**. La solución del profesor, cuando existe, está en la última columna.
 
-> Esta tabla se irá actualizando a medida que avance el curso.
+| Clase | Fecha | Tema | Notebook | Solución |
+|:-----:|:-----:|------|:--------:|:--------:|
+| 1 | 15-oct | Presentación del programa, Git y GitHub | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/clase_01.ipynb) | — |
+| 2 | 17-oct | NumPy, pandas y primer modelo de machine learning | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase02_NumPy_pandas_ML.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase02_numpy_pandas_ml_profe.ipynb) |
+| 3 | 19-oct | Taller en grupos de ML supervisado: métricas e hiperparámetros | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase03_Cap5_Grupos.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase03_cap5_grupos_PROFESOR.ipynb) |
+| 4 | 20-oct | ML supervisado presentado por grupos y taller con Gradio | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase04_Taller_ML_Gradio.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase04_taller_ml_gradio.ipynb) |
+| 5 | 22-oct | Proyecto final: de la problemática a la idea y formación de grupos | — | — |
+| 6 | 24-oct | Hugging Face, Gradio y Kaggle; métricas con fuga de clientes | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase06_Gradio_Kaggle_HF.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase06_gradio_kaggle_hf.ipynb) |
+| 7 | 26-oct | Proyecto final con design thinking, métricas y K-means | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase07_Metricas_NoSupervisado.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase07_metricas_nosupervisado_PROFE.ipynb) |
+| 8 | 27-oct | Taller de aprendizaje no supervisado: clustering jerárquico, K-means y DBSCAN | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase08_NoSupervisado_Taller.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase08_nosupervisado_taller_PROFE.ipynb) |
+| 9 | 29-oct | Del prototipo funcional al pitch de 2 minutos | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase09_Plantilla_Prototipo_Pitch.ipynb) | — |
+| 10 | 2-nov | Clustering de países con PCA y K-means; inicio de PLN con web scraping y expresiones regulares | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase10_Paises_PLN.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase10_paises_pln.ipynb) |
+| 11 | 3-nov | PLN: expresiones regulares, tokenización, stopwords y lematización | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase11_Resenas_PLN.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase11_resenas_pln_PROFESOR.ipynb) |
+| 12 | 5-nov | Embeddings y modelos de lenguaje: n-gramas y transformers | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase12_Completo.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase12_representacion_modeloslenguaje_PROFESOR.ipynb) |
+| 13 | 7-nov | Representación de texto con TF-IDF, análisis de sentimiento, LDA y LSTM | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase13_Temas_Embeddings_LSTM.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase13_temas_embeddings_lstm_PROFESOR.ipynb) |
+| 14 | 9-nov | Redes neuronales: del perceptrón a TensorFlow y Keras | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase14_Neurona_TensorFlow.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase14_neurona_tensorflow_PROFESOR.ipynb) |
+| 15 | 10-nov | Deep learning con Keras: regularización, CNN y comparación con regresión logística | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase15_Keras_Aplicado.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase15_keras_aplicado_PROFE_SIN_DESAFIO.ipynb) |
+| 16 | 12-nov | Redes convolucionales con MNIST y CIFAR-10; introducción a RNN y LSTM | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase16_CNN_RNN_a_fondo.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase16_cnn_rnn_a_fondo_PROFE.ipynb) |
+| 17 | 14-nov | IA generativa: autoencoders, VAE y GAN; detección con YOLO; Hugging Face Spaces | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase17_Autoencoders_GAN_HuggingFace.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase17_autoencoders_gan_huggingface_PROFE.ipynb) |
+| 18 | 16-nov | Fine-tuning con LoRA, RAG, MCP y agentes | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase18_FineTuning_LoRA_ABSA.ipynb) | [Ver](./ejercicios_profesor/sic2026_ia_clase18_finetuning_lora_absa.ipynb) |
+| 19 | 17-nov | Proyecto final: trabajo en grupos y etiquetas YOLO | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_19.ipynb) | — |
+| 20 | 19-nov | Proyecto final: criterios de presentación, métricas y cómo no perder un entrenamiento en Colab | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_20.ipynb) | — |
+| 21 | 21-nov | Proyecto final: datos sintéticos para clasificar cantos de aves chilenas | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_21.ipynb) | — |
+| 22 | 23-nov | Proyecto final: entregables, estructura de pitch y hackathon | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_22.ipynb) | — |
+| 23 | 24-nov | Revisión de avances por equipo, calendario de cierre y detección de noticias falsas | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_23.ipynb) | — |
+
+### Material complementario
+
+| Notebook | Clase | Qué es |
+|---|:---:|---|
+| [BETO vs Tulio vs Patana](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/beto_tulio_patana.ipynb) | 18 | Comparar tres modelos de lenguaje en español completando la palabra que falta |
+| [Cuatro conceptos de fine-tuning](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/demo_conceptos_finetuning.ipynb) | 18 | Cuatro demos cortas de los conceptos de fine-tuning |
+| [Detector de mascarillas con Roboflow](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/demo_mascarillas_roboflow.ipynb) | 18 | Usar un modelo ajustado en Roboflow y dibujar los recuadros |
+| [Clase 12 · versión de la sesión](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase12_Representacion_ModelosLenguaje.ipynb) | 12 | Versión del día de la clase; la de la tabla es la ampliada |
+| [Clase 17 · versión corta](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/SIC2026_IA_Clase17_Autoencoders_GAN.ipynb) | 17 | Autoencoders y GAN (capítulo 9), sin la parte de Hugging Face |
+| [Coding Exercise #0508 (profesor)](./ejercicios_profesor/52_ex_0508.ipynb) | — | Ejercicio del material Samsung resuelto |
 
 ## Contenidos del programa
 
