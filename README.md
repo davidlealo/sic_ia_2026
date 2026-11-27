@@ -43,6 +43,7 @@ Para abrir un notebook en Colab, haz clic en **Abrir**. La solución del profeso
 | 21 | 21-nov | Proyecto final: datos sintéticos para clasificar cantos de aves chilenas | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_21.ipynb) | — |
 | 22 | 23-nov | Proyecto final: entregables, estructura de pitch y hackathon | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_22.ipynb) | — |
 | 23 | 24-nov | Revisión de avances por equipo, calendario de cierre y detección de noticias falsas | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_23.ipynb) | — |
+| 24 | 26-nov | Última revisión de avances: umbral, sobreajuste y peso de la observación del usuario en un RAG | [Abrir](https://colab.research.google.com/github/davidlealo/sic_ia_2026/blob/main/clases/sic_2026_ia_Clase_24.ipynb) | — |
 
 ### Material complementario
 
